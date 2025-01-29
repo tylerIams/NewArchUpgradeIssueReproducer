@@ -1,4 +1,4 @@
-# ivyPdNewArchUpgradeIssueReproducer
+# NewArchUpgradeIssueReproducer
 
 ![Build](https://github.com/tylerIams/ivyPdNewArchUpgradeIssueReproducer/workflows/Pre%20Merge%20Checks/badge.svg)
 
